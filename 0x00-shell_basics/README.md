@@ -1,1 +1,1 @@
-my first directory 6
+my firstdelete
