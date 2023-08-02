@@ -1,1 +1,1 @@
-my readme file
+my first directory 6
